@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sq_transicao_out_Events2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sq_transicao_out_Events2",
+  "parent":{
+    "name":"btg_pap_1_5",
+    "path":"btg_pap_1_5.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
