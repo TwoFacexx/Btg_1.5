@@ -1,8 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-draw_self();
-
-//draw_text(x, y - 100, timer_dano);
-
-
+draw_self(); 
+// Desenha o sprite do objeto na posição atual
+// Draws the object's sprite at its current position
